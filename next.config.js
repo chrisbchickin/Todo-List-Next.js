@@ -2,7 +2,7 @@
 const nextConfig = {
     experimental: {
         // Enable Server Actions
-        serverActions: true,
+        serverActions: false,
       },
 }
 
